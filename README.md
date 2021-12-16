@@ -19,3 +19,5 @@ I am a member of the White Hat Hacking Discord Server!
 
 > discord.gg/whh
 
+## If you want to reach out to me, message me on Discord: R4Z0R#1111
+
