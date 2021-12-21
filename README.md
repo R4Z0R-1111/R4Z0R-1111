@@ -15,7 +15,7 @@ Currently these are the languages I can code in:
 - PHP 
 - PYTHON
 
-I am a member of the White Hat Hacking Discord Server! 
+### I am a member of the White Hat Hacking Discord Server! 
 
 > discord.gg/whh
 
