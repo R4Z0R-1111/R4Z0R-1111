@@ -5,19 +5,19 @@ to be safe on the internet. Or to defend themselves from malware, learn more abo
 
 Currently these are the languages I can code in:
 
-- C
-- C#
-- Java
-- Javascript
-- HTML
-- CSS
-- GML
-- PHP 
-- PYTHON
+- [x] C
+- [x] C#
+- [x] Java
+- [x] Javascript
+- [x] HTML
+- [x] CSS
+- [x] GML
+- [x] PHP 
+- [x] PYTHON
 
-### I am a member of the White Hat Hacking Discord Server! 
+## I am a member of the White Hat Hacking Discord Server! 
 
-> discord.gg/whh
+### https://discord.com/invite/whh
 
 ## If you want to reach out to me, message me on Discord: R4Z0R#1111
 
