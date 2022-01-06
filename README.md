@@ -5,6 +5,8 @@ to be safe on the internet. Or to defend themselves from malware, learn more abo
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r4z0r-1111&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r4z0r-1111&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=r4z0r1111&color=orange)
 
 >Note: I am still a beginner, so my tools are not perfect, or the safest in any way! I do most of them for practise, and learn alot along the way! But I always want to get better at coding, to create more complex and helpful Projects in the future!
