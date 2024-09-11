@@ -1,29 +1,14 @@
-# R4Z0R#1111
+# 👾 Welcome to R4Z0R1337's GitHub Profile
 
-I am R4Z0R, and I am a beginner White Hat Hacker, and I have been a web Developer and Designer for several years! My main Goal is to create tools to help other people,
-to be safe on the internet. Or to defend themselves from malware, learn more about Cyber Defense, and useful tools for White Hat Hackers.
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=R4Z0R1337&show_icons=true&theme=radical)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r4z0r-1111&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+## 🌐 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R4Z0R1337&layout=compact&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r4z0r-1111&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+## 🏆 GitHub Trophies
+![Trophy](https://github-profile-trophy.vercel.app/?username=R4Z0R1337&theme=radical)
 
-![](https://komarev.com/ghpvc/?username=r4z0r1111&color=orange)
+---
 
->Note: I am still a beginner, so my tools are not perfect, or the safest in any way! I do most of them for practise, and learn alot along the way! But I always want to get better at coding, to create more complex and helpful Projects in the future!
-
-Currently these are the languages I can code in:
-
-- [x] C
-- [x] C#
-- [x] Java
-- [x] Javascript
-- [x] HTML
-- [x] CSS
-- [x] GML
-- [x] PHP 
-- [x] PYTHON
-
->I am a member of the White Hat Hacking Discord Server, if you are interested in getting Started, or you want to exchange your knowledge, and help other people, I highly recommend giving it a try! https://discord.com/invite/whh
-
-### If you want to reach out to me, message me on Discord: R4Z0R#1111
-
+Thanks for stopping by! Let's build something awesome together. 🚀
