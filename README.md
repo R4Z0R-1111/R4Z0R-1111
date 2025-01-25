@@ -53,6 +53,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/r4z0r-1111/r4z0r-1111/output/snake.svg" alt="Snake animation" />
+
 
 ###
