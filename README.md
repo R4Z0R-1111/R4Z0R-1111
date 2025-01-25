@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋 My name is R4Z0R and I'm a FULLSTACK-DEVELOPER!</h2>
+<h2 align="center">HI 👋 MY NAME IS R4Z0R AND I'M A FULLSTACK-DEVELOPER!</h2>
 
 ###
 
